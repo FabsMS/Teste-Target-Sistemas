@@ -1,0 +1,17 @@
+a) 1, 3, 5, 7, 9
+-> os números vão sendo somados de 2 em 2
+
+b) 2, 4, 8, 16, 32, 64, 128
+-> os números vão sempre sendo dobrados (ou também pode se dizer que se tratam das potências de 2)
+
+c) 0, 1, 4, 9, 16, 25, 36, 49
+-> os números somados, são a sequência dos números ímpares (0+1, 1+3, 4+5, 9+7; o número da direita da operação, é sempre o próximo número ímpar em relação ao número da direita da operação anterior)
+
+d) 4, 16, 36, 64, 100
+-> as somas se iniciaram em +12, e a soma seguinte, foi a soma anterior +8, ou seja, a segunda soma do número atual +12+8, e a próxima seria o número atual, somado ao resultado anterior +8, ou seja, 20+8, e depois 28+8, e assim sucessivamente
+
+e) 1, 1, 2, 3, 5, 8, 13
+-> o número à seguir é sempre a soma dos dois números anteriores à ele (sequência de Fibonacci)
+
+f) 2, 10, 12, 16, 17, 18, 19, 20
+-> a primeira soma foi de +8, enquando a segunda soma foi de +2. A seguir, as próximas somas foram a metade das anteriores, +4 e +2, sucessivamente, até que ambas se manteram em somas de +1

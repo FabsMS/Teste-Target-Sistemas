@@ -1,0 +1,2 @@
+Considerando que o problema em questão, primeiramente eu ligaria o interruptor I e esperaria alguns minutos, assim, esquentando uma das lâmpadas, depois desligaria o interruptor I e ligaria o II, assim, fazendo a primeira visita à sala. Logo, saberia qual é a lâmpada controlada pelo interruptor II, e tocaria nas duas lâmpadas que estão apagadas, a que estivesse quente, eu saberia que é controlada pelo interruptor I, e a lâmpada restante (apagada e fria), logo, seria controlada pelo interruptor III.
+Assim, o problema pode ser resolvido somente com uma visita.
